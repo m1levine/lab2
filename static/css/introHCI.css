@@ -21,7 +21,10 @@ p {
 }
 
 .project p {
-    font-variant: small-caps;
+    margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 525px;
 }
 
 #project1 {
