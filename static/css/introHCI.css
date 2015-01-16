@@ -16,9 +16,6 @@ body {
      padding: 20px;
 }
 
-
-
-
 .jumbotron {
 	position: relative;
 	background: none;
@@ -34,11 +31,4 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
-}
-
-.project  {
-    margin-left: 20px;
-    background-color: #deebf7;
-    padding: 20px;
-    width: 525px;
 }
